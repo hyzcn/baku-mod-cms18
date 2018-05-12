@@ -1,0 +1,15 @@
+Thanks to Bunns for the original source code.
+Latest release: https://github.com/codemandan/baku-mod-cms18/releases
+
+1. Always backup your savegame located at (%userprofile%\appdata\locallow\Red Dot Games)
+2. Navigate to your Steam CMS2018 folder, usually C:\Program Files (x86)\Steam\steamapps\common\Car Mechanic Simulator 2018\cms2018_Data\Managed
+3. Make a copy of "Assembly-CSharp-firstpass.dll" in the above folder, just in case
+4. Copy contents from the .zip to cms21018_Data\Managed
+5. Open game and wait for a short period as the intro videos are removed
+
+Change baku.ini settings as required.
+
+Bonus: 
+- No intro videos
+- Always 23 cars in junkyard
+- Double walking speed by default 
