@@ -7,17 +7,17 @@ Car always spawns at Entrance 1, it will delete whatever is currently in that sp
 
 Keys:
 Keypad 1 - Spawn car
-Keypad 2 - Increase Config version
-Keypad 3 - Decrease Config version
+Keypad 2 - Increase config version
+Keypad 3 - Decrease config version
 Keypad 4 - Randomly change condition of car under mouse
 Keypad 5 - Randomly change color of car under mouse (also works in editor)
 Keypad 6 - Reload Liveries (also works in editor)
 Keypad 7 - Set mileage of car under mouse as configured in the ini file
-Keypad 8 - Respawn cars at Junkyard
+Keypad 8 - Respawn cars at junkyard
 Keypad 9 - Fully repair car under mouse
 Keypad 0 - Photo Mode
-Keypad+ - Increase speed
-Keypad- - Decrease speed
+Keypad+ - Increase walking speed
+Keypad- - Decrease walking speed
 
 F5 - Switch to game
 F6 - Switch to editor
